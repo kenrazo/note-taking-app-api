@@ -1,0 +1,14 @@
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.DataAccess\bin\Debug\net5.0\NoteTakingApi.DataAccess.deps.json
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.DataAccess\bin\Debug\net5.0\NoteTakingApi.DataAccess.dll
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.DataAccess\bin\Debug\net5.0\ref\NoteTakingApi.DataAccess.dll
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.DataAccess\bin\Debug\net5.0\NoteTakingApi.DataAccess.pdb
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.DataAccess\bin\Debug\net5.0\NoteTakingApi.Common.dll
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.DataAccess\bin\Debug\net5.0\NoteTakingApi.Common.pdb
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.DataAccess\obj\Debug\net5.0\NoteTakingApi.DataAccess.csproj.AssemblyReference.cache
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.DataAccess\obj\Debug\net5.0\NoteTakingApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.DataAccess\obj\Debug\net5.0\NoteTakingApi.DataAccess.AssemblyInfoInputs.cache
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.DataAccess\obj\Debug\net5.0\NoteTakingApi.DataAccess.AssemblyInfo.cs
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.DataAccess\obj\Debug\net5.0\NoteTakingApi.DataAccess.csproj.CoreCompileInputs.cache
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.DataAccess\obj\Debug\net5.0\NoteTakingApi.DataAccess.dll
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.DataAccess\obj\Debug\net5.0\ref\NoteTakingApi.DataAccess.dll
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.DataAccess\obj\Debug\net5.0\NoteTakingApi.DataAccess.pdb

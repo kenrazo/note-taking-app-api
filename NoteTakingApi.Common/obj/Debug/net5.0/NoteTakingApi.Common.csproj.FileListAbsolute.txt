@@ -1,0 +1,11 @@
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.Common\bin\Debug\net5.0\NoteTakingApi.Common.deps.json
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.Common\bin\Debug\net5.0\NoteTakingApi.Common.dll
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.Common\bin\Debug\net5.0\ref\NoteTakingApi.Common.dll
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.Common\bin\Debug\net5.0\NoteTakingApi.Common.pdb
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.Common\obj\Debug\net5.0\NoteTakingApi.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.Common\obj\Debug\net5.0\NoteTakingApi.Common.AssemblyInfoInputs.cache
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.Common\obj\Debug\net5.0\NoteTakingApi.Common.AssemblyInfo.cs
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.Common\obj\Debug\net5.0\NoteTakingApi.Common.csproj.CoreCompileInputs.cache
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.Common\obj\Debug\net5.0\NoteTakingApi.Common.dll
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.Common\obj\Debug\net5.0\ref\NoteTakingApi.Common.dll
+D:\Project\NoteTakingApp\NoteTakingApi\NoteTakingApi.Common\obj\Debug\net5.0\NoteTakingApi.Common.pdb
